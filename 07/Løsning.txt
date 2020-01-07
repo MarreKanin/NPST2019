@@ -1,0 +1,19 @@
+1. Finne ut hva man skal lete etter
+2. Ikke finne annet en hasher
+3. Fortvilelse
+
+
+Etter hvert som tiden gikk så ble det klart at jeg ikke klarte å søke cracke noen av hashene jeg hadde i passordlistene mine.
+
+Prøvde å finne delvise treff i passordhasher som jeg visste av fra før av og sjekka alle 12000 hashene på eksterne nettsider,
+der man kunne laste opp 1000 og 1000 om gangen.
+
+Jeg ble etter hvert så frustrert at jeg lastet ned alle 12002 bildene som hadde filnavn som hasher.
+Jeg skrev så et python script som til slutt kalkulerte størrelsen på hver enkelt bilde og sorterte de på størrele.
+
+listdir.py
+
+2 filer skilte seg ut og navnene på de var:
+
+8798e1f0a271b09750a6531686fc621b.png
+b30b4add25b97721ebf0e7ad2eb26eb9.png 

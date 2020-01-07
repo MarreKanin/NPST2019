@@ -1,0 +1,17 @@
+NPST
+05.12.19
+Oppdatering på ønskeliste-lekkasje
+
+Ytterligere 72 ønskelister ser ut til å være på avveie.
+
+NISSEN jobber på spreng for å utvikle en ny uknekkelig PPK.
+
+Kranglete API
+
+Våre analytikere har gravd litt i et system en tidligere ansatt jobbet med før avskjedigelse. Noen av adventsvikarene er kjent med personen fra tidligere gjennom uthenting av filer og gjenoppretting av passord. Det ser ut til at systemet er skrevet i node.js, men analytikerne våre greier ikke helt skjønne hvordan det fungerer. Det finnes heller ikke noen dokumentasjon. Kunne noen EDB-kompetente alvebetjenter sett nærmere på dette, og rapportert tilbake i intranettet om det ligger noe av interesse der?
+
+https://npst.no/api/🙃.js
+
+Julevurdering
+
+Med bakgrunn i ønskelistelekasjen er julevurderingen nedgradert. Det er nå MULIG at det blir en GOD JUL.

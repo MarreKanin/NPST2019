@@ -1,0 +1,13 @@
+API: https://npst.no/api/%F0%9F%99%83.js
+
+1. Prøve å se om man finner logikk i api`et
+2. Bli frustrert
+3. Finne en måte å bruteforce på
+
+
+Man kan poste fra 1 - 20 av følgende emojier ✨, ⚡, 🔑
+Laget et random antall emojier av random type over 10000 iterasjoner for å skape randomhet
+Prøve å poste dette til API`et
+Laget en naughtyliste over kall jeg har benyttet før og som ikke gir flagg eller gir feilmelding
+
+Denne kombinasjonen ga altså flagg: ⚡✨⚡⚡✨⚡✨🔑⚡

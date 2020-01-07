@@ -1,0 +1,9 @@
+1: logge inn med bruker:Advent2019 få første hash
+2: Generere passord som passer med kravene. pass.py
+3: Ta sha1-hashen fra oppgaven og match mot sha1-hashede passord man laget i oppgave 2.
+
+admin:)9Fp
+https://login.npst.no/files/5166e176c269f312/l%C3%B8sning.txt
+PST{36044221cd3e991ffc56eb2f1e368ca0}
+
+https://md5hashing.net/hash/sha1/42f82ae6e57626768c5f525f03085decfdc5c6fe

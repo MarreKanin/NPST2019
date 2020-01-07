@@ -1,0 +1,12 @@
+08.12.19
+Rudolf Rødnese og Jule Nissen klare for løpetur
+
+Lokalisering av isbjørn
+
+Den 4. desember dro Jule NISSEN og Rudolf RØDNESE på joggetur til postkontoret for å hente juleønsker fra snille barn. Etter en noe turbulent sledetur iførte de seg NPSTs nye treningsklær og jogget fra sledeplassen til postkontoret. På turen tok Rudolf RØDNESE en liten omvei, hvor han observerte en mistenkelig isbjørn. Uheldigvis greier ikke Rudolf RØDNISSE å huske hvor han befant seg da han observerte isbjørnen.
+
+Kan en alvebetjent se nærmere på dette, og rapportere tilbake lokasjonen til isbjørnen i intranettet?
+
+Rudolf RØDNESE vil helst ha lokasjonen til isbjørnen (så nøyaktig som mulig) i uppercase, inklusive mellomrom, omgitt av PST{ og }.
+
+Eksempel: Julenissens verksted → PST{JULENISSENS VERKSTED}.

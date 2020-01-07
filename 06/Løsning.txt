@@ -1,0 +1,11 @@
+Cipher:
+KNO fmw55k8m7i179 z98øyåz8æy67aåy0å6æ7aø1å1438åa5a fmw55k8m7i179 95p11
+
+Først piper vi dataene igjennom CAESER Cipher til https://cryptii.com/pipes/caesar-cipher med fullt alfabet og æøå
+Da får vi: PST krø55p8r7n179 b98daeb8ca67fea0e6c7fd1e1438ef5f krø55p8r7n179 95u11
+
+Etter det piper vi det igjen igjennom samme engine men nå med 0123456789 som alfabet vi skal shifte. 
+
+PST krø11p4r3n735 b54daeb4ca23fea6e2c3fd7e7094ef1f krø11p4r3n735 51u77
+
+Skrev også et shiftprogram i python, men fant ut at man ikke trengte det.
