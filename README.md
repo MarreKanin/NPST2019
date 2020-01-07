@@ -4,7 +4,7 @@ Dette var en CTF arrangert av [PST](http://pst.no) som en julekalender for 2019.
 
 ##### Velkommen til NPST
 
-I [oppgaveteksten](https://link/) får vi oppgitt at man skal logge inn på https://login.npst.no med brukernavn **bruker** og passord **Advent2019** som gir oss første flagg som er **PST{a7966bf58e23583c9a5a4059383ff850}**
+I [oppgaveteksten](01/Oppgavetekst.txt) får vi oppgitt at man skal logge inn på https://login.npst.no med brukernavn **bruker** og passord **Advent2019** som gir oss første flagg som er **PST{a7966bf58e23583c9a5a4059383ff850}**
 
 ##### Velg Passord
 
@@ -50,7 +50,7 @@ Jeg shifter indexen 24 ganger og får resultatet **PST krøllparantes 30e6d8432c
 
 ##### 🐒i
 
-I oppgaveteksten får vi oppgitt en url til et API som angivelig er skrevet i node.js. Siten vi skal besøke er https://npst.no/api/🙃.js og der får vi oppgitt følgende:
+I [oppgaveteksten](05//Oppgavetekst.txt) får vi oppgitt en url til et API som angivelig er skrevet i node.js. Siten vi skal besøke er https://npst.no/api/🙃.js og der får vi oppgitt følgende:
 
 > {"error":false,"state":"[>🍕<, 🍉, 🐴, 🐟, 🚀, 🚩]","message":"Bruk /api/🙃.js?commands=🤷 for en 📃 over 👌 ,n🚽er."}
 
@@ -96,11 +96,11 @@ Flagget ble da **PST{b54daeb4ca23fea6e2c3fd7e7094ef1f}**
 
 ##### Nissens Verksted
 
-Oppgaveteksten forteller at det er noe digitalisering på gang i nisseverkstedet og at de har mistet et flagg inne der. Urlen er https://verksted.npst.no/
+[Oppgaveteksten](07/Oppgavetekst.txt) forteller at det er noe digitalisering på gang i nisseverkstedet og at de har mistet et flagg inne der. Urlen er https://verksted.npst.no/
 
 Her er det 12000 png`er som alle er forkledd som md5hasher. Denne oppgaven satte meg helt ut. Forsøkte en del rare ting her og en av de var å prøve alle 12k hashene på online hash-søk. Ingen ga noe treff noe sted jeg kunne finne, så ingenting som skillte seg ut ved første øyekast.
 
-Jeg ble etterhvert så desperat at jeg lastet ned(med et [python-script](http://url)) samtlige png`er til lokal pc og kjørte et [python-script](http://url) mot filene jeg lastet ned og sjekket filstørrelsen på disse for å finne ugjevnheter. 2 flagg skilte seg ut:
+Jeg ble etterhvert så desperat at jeg lastet ned(med et [python-script](07/hax.py) samtlige png`er til lokal pc og kjørte et [python-script](07/listdir.py) mot filene jeg lastet ned og sjekket filstørrelsen på disse for å finne ugjevnheter. 2 flagg skilte seg ut:
 
 \*\*8798e1f0a271b09750a6531686fc621b.png
 
@@ -108,7 +108,7 @@ b30b4add25b97721ebf0e7ad2eb26eb9.png\*\*
 
 **PST{8798e1f0a271b09750a6531686fc621b}** var flagget på denne oppgaven.
 
-![flag](http://flag1.jpg)
+![flag](07/flag1.jpg)
 
 ##### Bedriftsspionasje
 
@@ -116,13 +116,13 @@ Her var det ganske opplagt at det var det andre bildet jeg hadde funnet var den 
 
 **PST{b30b4add25b97721ebf0e7ad2eb26eb9}**
 
-![flag](http://FLAG2.jpg)
+![flag](07/FLAG2.jpg)
 
 # Luke 8
 
 ##### 8. desember
 
-I [oppgaveteksten](http://url) får man høre om en joggetur til Julenissen og rudolf. Rudolf har vissnok tatt en liten omvei, og man blir bedt om å finne ut hvor dette var. Oppgaven viser også et [bilde](http://strava.png) av julenissen og rudolf, der julenissen holder en mobil med strava aktiv.
+I [oppgaveteksten](08/Oppgavetekst.txt) får man høre om en joggetur til Julenissen og rudolf. Rudolf har vissnok tatt en liten omvei, og man blir bedt om å finne ut hvor dette var. Oppgaven viser også et [bilde](08/strava.png) av julenissen og rudolf, der julenissen holder en mobil med strava aktiv.
 
 Vi finner lett julenissen på strava og aktivtetene til rudolf og nissen:
 
@@ -154,7 +154,7 @@ Oppgavetekst:
 
 Pen Gwyn har en aktivitet som heter rapport som inneholder et bilde
 
-![flag](http://vxeqgs8Hj6VG7wo2uutMDJ4l3A7IkDEGCkp44q3z_nM-2048x247.jpg)
+![flag](08/vxeqgs8Hj6VG7wo2uutMDJ4l3A7IkDEGCkp44q3z_nM-2048x247.jpg)
 
 Et minutt eller to med manuell kryptoanalyse ser jeg at dette er morsekode. Det vanskeligste her var egentlig å dekode bildet til morse manuelt. Morsekoden ble:
 
@@ -170,7 +170,7 @@ Flagget var **PST{e06531d19ff020a479520ef28c8d1e2c}**
 
 ##### Vige vs. Nere
 
-Her får vi i oppgaveteksten en sjakk PGP-kode der det skal gjemme seg et hemmelig cipher. Jeg har ikke vært borti sjakk-cipher før og ble lett forvirret. Prøvde en del kombinasjoner med å se på ulike tall og hex-kombinasjoner. Googlet meg fram til at det er noe som heter chess stego og fant denne dekodingssiden: https://incoherency.co.uk/chess-steg/
+Her får vi i [oppgaveteksten](10/Oppgavetekst.txt) en sjakk PGP-kode der det skal gjemme seg et hemmelig cipher. Jeg har ikke vært borti sjakk-cipher før og ble lett forvirret. Prøvde en del kombinasjoner med å se på ulike tall og hex-kombinasjoner. Googlet meg fram til at det er noe som heter chess stego og fant denne dekodingssiden: https://incoherency.co.uk/chess-steg/
 
 Legger man inn PGP-dataene inn i denne og dekoder finner man at denne teksten skjuler seg inne i sjakkspillet: HHL DJDWEDESKWCLXK u02s104y2s665t5v3w2619v6184su50t CGGXDAHTJTFMWH KEMIL
 
@@ -184,9 +184,9 @@ Flagget blir **SPST{f02a104f2a665e5d3d2619d6184dc50a}**
 
 ###### Arbitrær kode
 
-Oppgaveteksten ga en url som var https://api.spst.no/eval?eval=`<pre>\${getFlag()}</pre>` og instruksjoner om å finne et flagg. Her var jeg usikker på hvordan jeg skulle starte å lete, da dette så ut som whatever for min del. Jeg bestemte for å benytte wfuzz/gobuster for å sjekke om jeg kunne finne forskjellige sites.
+[Oppgaveteksten](12/Oppgavetekst.txt) ga en url som var https://api.spst.no/eval?eval=`<pre>\${getFlag()}</pre>` og instruksjoner om å finne et flagg. Her var jeg usikker på hvordan jeg skulle starte å lete, da dette så ut som whatever for min del. Jeg bestemte for å benytte wfuzz/gobuster for å sjekke om jeg kunne finne forskjellige sites. Her fikk jeg etter hvert en del treff.
 
-Jeg fant at man kunne printe flere forskjellige javascriptfunksjoner som skulle gjøre en dekrypting av en hash. Jeg samlet de fleste funksjonene jeg fant i [functions.js](http://url). Prøvde å sette det opp på lokal for å console.logge underveis men manglet en del funksjoner. Fant til slutt ut at jeg hadde de parametrene jeg stort sett trengte, manglet bare passordet som kunne enkelt brutforces med følgende [python-script](http://url):
+Jeg fant at man kunne printe flere forskjellige javascriptfunksjoner som skulle gjøre en dekrypting av en hash. Jeg samlet de fleste funksjonene jeg fant i [functions.js](12/functions.js). Prøvde å sette det opp på lokal for å console.logge underveis men manglet en del funksjoner. Fant til slutt ut at jeg hadde de parametrene jeg stort sett trengte, manglet bare passordet som kunne enkelt brutforces med følgende [python-script](12/brute.py):
 
 ```
 
@@ -212,9 +212,9 @@ Flagget var **PST{24e592de8b20fe09938916d79b08854e}**
 
 ##### Token effort
 
-Her får vi 4 passordpakkede filer som viser seg å være en zip-fil med flere pakkede filer inni seg. Oppgaveteksten sier at passordet for filen befinner seg i [jobbannonsen](https://www.finn.no/job/fulltime/ad.html?finnkode=165416216) som har blitt lagt ut av PST. Jeg laget et [pythonscript](http://url) som deler opp alle setningene og til ord for å danne en passordliste. For å ta knekken på passordet skrev jeg et [python-script](http://url) som prøver alle passordene i listen jeg laget.
+[Her](13/Oppgavetekst.txt) får vi 4 passordpakkede filer som viser seg å være en zip-fil med flere pakkede filer inni seg. Oppgaveteksten sier at passordet for filen befinner seg i [jobbannonsen](https://www.finn.no/job/fulltime/ad.html?finnkode=165416216) som har blitt lagt ut av PST. Jeg laget et [pythonscript](13/format_txt.py) som deler opp alle setningene og til ord for å danne en passordliste. For å ta knekken på passordet skrev jeg et [python-script](13/hack.py) som prøver alle passordene i listen jeg laget.
 
-Klassisk [Matrjosjka](https://no.wikipedia.org/wiki/Matrjosjka) inne i den passordbeskyttede pakken. 4Jeg hadde ikke noen verktøy for dette for hånden, så jeg pakket ut alle filene manuelt. Etter dette står vi igjen med 4 filer:
+Klassisk [Matrjosjka](https://no.wikipedia.org/wiki/Matrjosjka) inne i den passordbeskyttede pakken. Jeg hadde ikke noen verktøy for dette for hånden, så jeg pakket ut alle filene manuelt. Etter dette står vi igjen med 4 filer:
 
 ```
 
@@ -298,7 +298,7 @@ md5checksummen på **_måltid.png_** var altså flagget her:
 
 ##### Passorddatabase
 
-I denne oppgaven fikk vi en ELF-fil som skulle være en passordbase som noen har glemt passordet til. Jeg prøvde meg fram i GDB og i Ida64 men jeg så bare masse funksjoner som kjørte og bytting av minneallokeringer og flytting av variabler. Prøvde en del variasjoner i GDB for å se om det kom noe magisk opp i terminalen, men no go.
+I denne oppgaven fikk vi en [ELF-fil](17/p2w) som skulle være en passordbase som noen har glemt passordet til. Jeg prøvde meg fram i GDB og i Ida64 men jeg så bare masse funksjoner som kjørte og bytting av minneallokeringer og flytting av variabler. Prøvde en del variasjoner i GDB for å se om det kom noe magisk opp i terminalen, men no go.
 
 Rev er ikke min sterkeste side, så jeg husket John Hammond har skrevet en fin [oversikt](https://github.com/JohnHammond/ctf-katana) over hvilke tools man kan benytte til enkelte CTF-oppgaver. Her fant jeg verktøyet **_ltrace_** som hjalp meg ekstremt mye.
 Vanlig kjøring av programmet:
