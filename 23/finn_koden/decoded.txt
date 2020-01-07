@@ -1,0 +1,41 @@
+INVITE sip:24700720@10.143.23.244:5060 SIP/2.0
+Max-Forwards: 59
+Via: SIP/2.0/UDP 10.22.48.6:5060;branch=z9hG4bKg3Zqkv7iqzibm3wfn8td5orxo7vyxe5q9
+To: <tel:24700720;phone-context=+47>
+From: "Anonymous" <sip:anonymous@anonymous.invalid>;tag=h7g4Estg_p63344t1976798986m456675c4958193147s1_3997725510-548775950
+Call-ID: p65599t1576767456m455575f2658294147s2
+CSeq: 1 INVITE
+Contact: <sip:sgc_c@10.22.48.6;transport=udp>;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.mmtel"
+Record-Route: <sip:10.22.48.6;transport=udp;lr>
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.mmtel"
+Min-Se: 900
+Resource-Priority: q735.4
+Session-Expires: 1800
+Supported: timer
+Supported: 100rel
+Supported: precondition
+Supported: histinfo
+Content-Type: application/sdp
+Content-Length: 421
+Session-ID: 5b8e6d5f89b8ea975b77e0a6bbf782a8
+Allow: REGISTER, REFER, NOTIFY, SUBSCRIBE, PRACK, UPDATE, INVITE, ACK, OPTIONS, CANCEL, BYE
+Accept: application/sdp
+
+v=0
+o=- 2022048203 3887725258 IN IP4 10.22.48.6
+s=-
+c=IN IP4 10.64.65.129
+t=0 0
+a=sendrecv
+m=audio 45248 RTP/AVP 97 100 105
+c=IN IP4 10.64.65.129
+a=curr:qos local none
+a=curr:qos remote none
+a=des:qos mandatory local sendrecv
+a=des:qos optional remote sendrecv
+a=rtpmap:97 PCMA/8000
+a=rtpmap:100 telephone-event/16000
+a=fmtp:100 0-15
+a=rtpmap:105 telephone-event/8000
+a=fmtp:105 0-15
+a=maxptime:40

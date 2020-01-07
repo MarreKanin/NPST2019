@@ -1,0 +1,22 @@
+TEMMELIG HEMMELIG
+NPST
+23.12.19
+Mystisk julekort
+
+Jule NISSEN fikk i går et meget spesielt julekort levert i den elektroniske postkassen hans. Julekortet har ingen bakside, og derfor heller ingen tekst knyttet til seg.
+
+Klarer du å finne ut noe mer om avsender e.l.?
+
+Last ned julekort
+
+Fragmentert samtale
+
+Arbeidet som ble gjort 21. desember rundt avdekking av feil ved SPST sitt nye kryptosystem, har gjort oss i stand til å snappe opp en samtale mellom to høytstående SPST-agenter. Teknikerne våre er dessverre på ferie, og vi greier ikke dekode meldingen helt, kunne noen alvebetjenter hørt på det?
+Vi har misstanke om at det utveksles en kode, og at denne koden kan benyttes for å finn'e en artikkel av noe slag. Analytekerne våre mener det er artikkelens navn som er av interesse. Om noen finner ut av det, legg inn md5-hashen av tittelen på artikkelen dere finn'er.
+
+Last ned PCAP
+
+Eksempel:
+tittel: "Gløgg og pepperkaker" → svar: PST{md5("Gløgg og pepperkaker")} = PST{9612ad6af8b6d78045b840b3c477d004}
+
+kalender.npst.no benytter informasjonskapsler 🍪
