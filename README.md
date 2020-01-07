@@ -1,3 +1,5 @@
+Dette var en CTF arrangert av [PST](http://pst.no) som en julekalender for 2019. Kjempegøy å delta med mange varierende og utfordrende oppgaver. Jeg lærte masse nytt og kunne en del fra før av. Oppgavene utviklet seg i vanskelighetsgrad og de 2 siste lukene var nok godt over mitt nivå.
+
 # Luke 1
 
 ##### Velkommen til NPST
