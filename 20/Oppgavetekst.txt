@@ -1,0 +1,11 @@
+TEMMELIG HEMMELIG
+NPST
+20.12.19
+Mystisk kort
+
+NPST har grunn til å tro at SPST har noen systemer kjørende på meget gammel hardware. Fra temmelig hemmelige kilder har vi greie på at SPST har outsourcet utviklingen av disse systemene, og får tilsendt kildekode for oppdateringen og ny funksjonalitet på postkort. NPST har nylig snappet opp et slikt kort markert "360", som anntas å innholde kode av noe slag. Dessverre ser det ut til at teknikerne våre har noen hull i programmeringskunnskapene sine, de kommer rett og slett til kort. Kunne en alvebetjent sett på kortet?
+
+1020 2020 0010 2012 2001 2200 1020 0000 0800 0200 0001 200A 2001 2200 1020 0C00 0300 0008 0800 1012
+Om noen finner ut av det hadde NISSEN satt pris på om vedkommende kunne kjørt koden, og lagt outputen de får inn i intranettet omkranset av { og }, samt prefikset med PST. Eksempel: kode: print("Hei, verden!") → output: Hei, verden! → svar: PST{Hei, verden!}.
+
+kalender.npst.no benytter informasjonskapsler 🍪

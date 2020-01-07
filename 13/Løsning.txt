@@ -1,0 +1,6 @@
+
+
+Tok ned filene.
+
+Skrev script hack.py som prøvde først rockyou-passord. Prøvde det i 30 min før jeg leste oppgaven å så at passordet lå i jobbanonsen.
+

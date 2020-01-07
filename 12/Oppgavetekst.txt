@@ -1,0 +1,15 @@
+NPST
+12.12.19
+Evaluering av trusler
+
+NPST har oppdaget et endepunkt som er tilgjengelig på SPST sin offentlige nettside. Det vites på dette tidspunktet ikke om dette endepunktet er tilgjengelig ved en feiltagelse, eller om det er meningen at dette skal brukes av deres agenter. En av NPSTs teknikere har påpekt at det ser ut til å være mulig å kjøre arbitrær kode via endepunktet. Det er ønskelig at en alvebetjent undersøker dette endepunktet og rapporterer eventuelle flagg via intranettet.
+
+Url: https://api.spst.no/eval?eval=`<pre>${getFlag()}</pre>`
+
+Jule NISSEN er blitt syk
+
+Jule NISSEN er utilgjengelig de neste dagene grunnet sykdom. Det mistenkes at sykdommen er influensa ettersom Jule NISSEN har sprøyteskrekk og ikke tok vaksinen sammen med resten av NPST. Ledelsen anbefaler alle alvebetjenter å praktisere god hygiene og benytte seg av antibak for å unngå videre smitte.
+
+Julevurdering
+
+Med bakgrunn i Jule NISSENS sykdom blir julevurderingen nedgradert. Det er nå mulig at det blir en GOD JUL.

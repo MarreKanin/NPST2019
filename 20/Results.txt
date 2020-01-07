@@ -1,0 +1,58 @@
+https://stackoverflow.com/questions/52612738/decode-hexadecimal-number-in-ibm-360-column-binary-format
+https://www.masswerk.at/keypunch/
+1020 = X 4 = M
+2020 = Y 4 = D
+0010 =   05 = 5
+2012 = Y 58 = (
+2001 = Y 9  (Y3) = I
+2200 = Y2 = B
+1020 = X 4 = M
+0000 =  = mellomrom
+0800 = 00 = 0
+0200 = 02 = 2
+0001 = 09 = 9
+200A = Y 68 = +
+2001 = Y 9 = I
+2200 = Y2 = B
+1020 = X 4 = M
+0C00 = 01 = 1
+0300 = 23 = ?
+0008 = 0 6 = 6
+0800 = 0 0 (6) = 0
+1012 = X 58 = )
+MD5(IBM 029 IBM1960)
+MD5(IBM 029+IBM1960)
+
+X4   Y4   5    Y58  Y9   Y2   X4        0    2    9    Y5   Y9   Y2   X4   X2   23   6    0    X58
+M    D    5    (    I    B    M         0    2    9    E    I    B    M    K    ?    6    0    )
+
+    /&-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="¢.<(+|!$*);¬ ,%_>?
+Y  / O           OOOOOOOOO                        OOOOOO
+X |   O                   OOOOOOOOO                     OOOOOO
+ 0|    O                           OOOOOOOOO                  OOOOOO
+ 1|     O        O        O        O
+ 2|      O        O        O        O       O     O     O     O
+ 3|       O        O        O        O       O     O     O     O
+ 4|        O        O        O        O       O     O     O     O
+ 5|         O        O        O        O       O     O     O     O
+ 6|          O        O        O        O       O     O     O     O
+ 7|           O        O        O        O       O     O     O     O
+ 8|            O        O        O        O OOOOOOOOOOOOOOOOOOOOOOOO
+ 9|             O        O        O        O
+  |__________________________________________________________________
+
+1020 2020 0010 2012 2001 2200 1020 0000 0800 0200 0001 200A 2001 2200 1020 0C00 0300 0008 0800 1012
+X4   Y4   5    Y58  Y9   Y2   X4        0 0  2    9    Y5   Y9   Y2   X4   X2   23   6    0    X58
+M    D    5    (    I    B    M         0    2    9    E    I    B    M    K    ?    6    0    )
+
+X4   Y4   5    Y58  Y9   Y2   X4        0    2    9    Y68  Y9   Y2   X4   01   23   6    0    X58
+M    D    5    (    I    B    M         0    2    9    +    I    B    M    1    9    6    0    )
+
+
+                   ________Byte 1________      ________Byte 2________
+
+ Position/row:     J  K  Y  X  0  1  2  3      L  M  4  5  6  7  8  9
+ Punches:                *  *  *  *  *  *            *  *  *  *  *  *
+ Bit number:       7  6  5  4  3  2  1  0      7  6  5  4  3  2  1  0
+ Dec value:             32 16  8  4  2  1           32 16  8  4  2  1
+ Hex value:             20 10  8  4  2  1           20 10  8  4  2  1

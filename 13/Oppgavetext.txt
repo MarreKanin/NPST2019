@@ -1,0 +1,20 @@
+NPST
+13.12.19
+Nøkkel på avveie
+
+NPST sin driftsansvarlig er dessverre sykemeldt, og jobben hans er midlertidig overtatt av en alv ved pakkeavdelingen til NISSENS verksted. Pakkealven har lagt merke til noe muffens som foregår på Jule NISSENS liste over snille og slemme barn. Pakkealven, som ikke er veldig teknisk anlagt, har behov for hjelp til å finne ut av hvem som snoker i sakene. Han har ikke så mange spor å gi, men han har pakket ned bevismaterialet godt for å unngå bevisforspillelse.
+
+Alvebetjenten som overbrakte informasjonspakken til Jule NISSEN har dessverre glemt passordet som ble benyttet. Hans små grå begynner desverre å gå ut på dato, men han mente at passordet var nevnt som en av teknologiene i annonsen fra vår samarbeidende tjeneste, PST.
+
+FILER:
+
+https://kalender.npst.no/logger.7z.001
+https://kalender.npst.no/logger.7z.002
+https://kalender.npst.no/logger.7z.003
+https://kalender.npst.no/logger.7z.004
+
+Kan en alvebetjent finne ut av hvilken API nøkkel som er kompromitert, og legge det inn i intranettet på formen PST{<den-kompromiterte-nøkkelen>}?
+
+Unngå lekasje
+
+NISSEN vil også oppfordre alle ansatte til å beskytte informasjon bedre ved bruk av kryptering. Sørg også for å bruke gode passord.

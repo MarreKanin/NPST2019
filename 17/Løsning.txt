@@ -1,0 +1,17 @@
+  % ltrace ./p2w                                                                                                               !6021
+printf("Passord: ")                                                               = 9
+fgets(Passord: lolz
+"lolz\n", 33, 0x7f787f9eba00)                                               = 0x7fffcc01d3e0
+strcmp("lolz\n", "625b2055fe2dcda72e418940599b881d"...)                           = 54
+puts("Feil, pigg av!"Feil, pigg av!
+)                                                            = 15
++++ exited (status 0) +++
+
+
+
+
+
+
+  % ./p2w                                                                                                                      !6022
+Passord: 625b2055fe2dcda72e418940599b881d
+PST{f3ad88918fd18414cc773271f586f6a9}

@@ -1,0 +1,90 @@
+Gå til annonsen
+Mulighetenes marked
+2
+Varslinger
+Ny annonse
+Meldinger
+
+Min FINN
+Jobb Alle stillinger
+logo
+
+Legg til favoritt   
+PST søker deg med god kunnskap om infrastruktur som kode til vår teknologiavdeling
+ArbeidsgiverPST (Politiets sikkerhetstjeneste)StillingstittelPST søker deg med god kunnskap om infrastruktur som kode til vår teknologiavdelingFrist02.01.2020AnsettelsesformFast
+Motiveres du av å være en del av et spennende teknisk fagmiljø med dyktige teknologer samtidig som du bidrar til vårt viktige samfunnsoppdrag? Da kan du være den vi ser etter! 
+Arbeidsoppgaver
+Aktuelle arbeidsoppgaver vil blant annet bestå av daglig drift og vedlikehold, kontinuerlig forbedringsarbeid samt etablering og opprettholdelse av vedlikeholdsrutiner. Du vil få teknisk ansvar for tjenester og deler av vår Linux infrastruktur. Du vil også få mulighet til å delta i viktige teknologiprosjekter i PST.
+Kvalifikasjoner
+Vi søker deg som ivrer etter å bygge, drifte og videreutvikle en skalerbar, robust og sikker IT-infrastruktur. Du er godt kjent med og har god forståelse for prinsipper som "infrastruktur som kode" og automatisering. Du er komfortabel med å håndtere tjenestelag så vel som infrastrukturlag i plattformen.
+
+Det er ønskelig med kjennskap til og erfaring med et eller flere av følgende temaer: 
+.Infrastruktur som kode
+.Scripting og scriptspråk brukt til automatisering
+.Verktøy brukt til administrasjon og konfigurasjonsstyring av infrastruktur og tjenester (f.eks. Puppet, Ansible, Chef, Salt)
+.Versjonskontroll (f.eks. Git, GitLab/Github/Bitbucket) og tilhørende arbeidsmetodikk
+.Innsamling og analyse av metrikker og logger for overvåkning av tjenester og infrastruktur
+.Erfaring med SIEM og verktøy for logganalyse (f.eks. Splunk, Graylog, ELK-stacken)
+.Containere og orkestrering av containerløsninger
+.Drift, feilsøking og videreutvikling av Linux-baserte tjenester, operativsystemer og infrastruktur
+.Herding av sikkerhet i operativsystemer, nettverk, tjenester og systemer
+.Databasetjenester
+.Integrasjoner og dataflyt på tvers av informasjonssystemer
+.Rammeverk for samhandling og arbeidsmetodikk (f.eks. ITIL, COBIT, Lean)
+
+Du er opptatt av informasjonssikkerhet og digitale sårbarheter og er oppdatert på nyheter og trender. Dette gjør deg i stand til å analysere omfanget av sårbarheter og situasjonsbildet og vurdere risiko og aksjoner mot tjenester og infrastruktur som leveres. 
+
+Du bør ha relevant høyere utdanning på minimum bachelornivå, og det er en fordel med relevant driftserfaring fra større IKT-miljøer. Relevant erfaring og sertifiseringer kan kompensere for manglende formell utdannelse. 
+Personlige egenskaper
+Vi ser etter deg som har stor endringsvilje og teknologisk interesse. Du er bevisst og tydelig på din rolle som leverandør av tjenester og liker en systematisk arbeidsform.
+Å dele kunnskap og dokumentere ditt arbeid er naturlig for deg. Du er en initiativtaker og slipper ikke oppgaver før de er fullført. Det er naturlig for deg å jobbe både selvstendig og som aktiv teamdeltager med et positivt bidrag til arbeidsmiljøet. Du evner å formidle tekniske budskap på en forståelig måte og er god i dialog med både brukere, kolleger og systemeiere. Du er opptatt av å forstå deres behov og bidra til et produkt som gjør det mulig for PST å utføre sitt samfunnsoppdrag.
+ 
+Personlig egnethet vektlegges høyt, og du må ha de personlige egenskapene som ansettelse i en sikkerhetstjeneste krever. Lojalitet, dømmekraft og pålitelighet er nøkkelbegreper i denne sammenheng. Du må tilfredsstille kravene til høyeste sikkerhetsklarering og autorisasjon.
+ 
+Som ansatt i en beredskapsorganisasjon forventes det at du er fleksibel og villig til å yte ekstra når situasjonen krever det.
+Vi tilbyr
+Teknologi er et satsningsområde for PST og vi jobber kontinuerlig med videreutvikling og forbedring for å opprettholde kvalitet på tjenester og systemstøtte levert til virksomheten. Du vil delta i større og mindre faggrupper avhengig av din bakgrunn, erfaring og kompetanse. Du vil bli utfordret på dine fagkunnskaper og mulighet til å påvirke arbeidsmetoder, teknologivalg og systemløsninger. Du vil få jobbe med drift, kontinuerlig forbedring og videreutvikling av komplekse og kritiske systemløsninger.
+
+Hos oss får du muligheten til å jobbe kreativt med teknologi. Vi tilbyr muligheter for egenutvikling, og vi både forventer og legger til rette for at du skal holde deg faglig oppdatert og dele din kunnskap med kolleger.  
+
+Du vil få en årslønn innenfor spennet kr 532 300 - 704 900 som avdelingsingeniør/overingeniør (SKO 1085/1087) eller rådgiver/seniorrådgiver (SKO 1434/1364). For spesielt kvalifiserte kandidater kan høyere lønn vurderes. Endelig lønnsplassering og plassering i stillingskode avhenger av kvalifikasjoner.
+
+Det er god pensjonsordning gjennom Statens pensjonskasse (fra lønnen trekkes 2 %). Endringer i stillingsinnhold, arbeidstid og organisatorisk tilhørighet kan forekomme.
+
+Noe reisevirksomhet må påregnes, og stillingen vil på sikt kunne inngå i en beredskapsordning.
+
+Søknad og prosess
+Våre ansatte skal i størst mulig grad gjenspeile mangfoldet i befolkningen. Det er et personalpolitisk mål å oppnå en balansert alders- og kjønnssammensetning og å rekruttere personer med flerkulturell bakgrunn og nedsatt funksjonsevne. Opplysninger om dette kan bli brukt til rapporteringsformål. Vi oppfordrer alle kvalifiserte kandidater med relevant utdanning, bakgrunn, arbeids- og livserfaring til å søke hos oss.  
+ 
+Søknad sendes elektronisk. Aktuelle kandidater vil bli innkalt til intervju. Testing av fagkunnskaper og personlig skikkethet må påregnes. For å kunne sikkerhetsklareres må du være villig til å oppgi opplysninger om deg selv og dine nærmeste. Du oppfordres til å utvise diskresjon om at du søker stilling i PST. Mer informasjon om dette vil bli gitt i løpet av ansettelsesprosessen. 
+
+       
+Om arbeidsgiveren
+
+
+Politiets tryggingsteneste (PST) er den nasjonale tryggings- og etterretningstenesta og har ei viktig rolle i vernet av demokratiet, borgarane og vitale samfunnsinteresser. PST er ei fleirfagleg teneste med behov for variert kompetanse. Vi har kontor i alle politidistrikt i landet og hovudkontor i Oslo.
+
+SektorOffentligStedNydalen, 0421 OsloBransjeIT,Offentlig administrasjon,Politi og sikkerhetStillingsfunksjonIT drift og vedlikehold / Drift/Operations,IT drift og vedlikehold / IT-support,IT utvikling / IT-sikkerhet
+Politiets sikkerhetstjeneste (PST)
+Spørsmål om stillingen
+KontaktpersonSolveig Flekstad LavikStillingstittelAvsnittslederTelefon23 30 50 00
+Søk her
+
+Hjemmeside
+Flere stillinger fra Politiets sikkerhetstjeneste (PST)
+Slutt å følge firma
+1650 følger dette firmaet
+Nydalen, 0421 Oslo
+Kart
+Stort kart Hybridkart Flyfoto
+
+Annonseinformasjon
+Rapporter annonse
+
+FINN-kode	165416216
+Sist endret	12. des 2019 16:24
+Jobbe i FINN Bli bedriftskunde Admin for bedrifter Om FINN.no Personvernerklæring Innstillinger for personvern Cookies Kundeservice
+   
+Innholdet er beskyttet etter åndsverkloven. Regelmessig, systematisk eller kontinuerlig innhenting, lagring, indeksering, distribusjon og all annen form for bruk av data fra FINN.no til andre enn rent personlige formål tillates ikke uten eksplisitt, skriftlig tillatelse fra FINN.no.
+
+© 1996–2019 FINN.no AS

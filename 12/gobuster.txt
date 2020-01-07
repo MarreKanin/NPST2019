@@ -1,0 +1,19 @@
+  % gobuster -u https://api.spst.no/ -w ../../Tools/directory-list-2.3-medium.txt                                                                       !5014
+
+=====================================================
+Gobuster v2.0.1              OJ Reeves (@TheColonial)
+=====================================================
+[+] Mode         : dir
+[+] Url/Domain   : https://api.spst.no/
+[+] Threads      : 10
+[+] Wordlist     : ../../Tools/directory-list-2.3-medium.txt
+[+] Status codes : 200,204,301,302,307,403
+[+] Timeout      : 10s
+=====================================================
+2019/12/12 08:37:11 Starting gobuster
+=====================================================
+/license (Status: 200)
+/404 (Status: 200)
+/eval (Status: 200)
+/LICENSE (Status: 200)
+/License (Status: 200)

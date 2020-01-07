@@ -1,0 +1,18 @@
+
+Finne robots.txt som sier at /temmelig-hemmelig/ ikke må leses av roboter. Det er url til første flagget. 
+
+fc35fdc70d5fc69d269883a822c7a53e:html
+
+neste flagg refereres til kildekode i oppgaveteksten. I html så er det en ref til github https://github.com/SydpolarSikkerhetstjeneste/spst.no
+
+I historikk ser man at passordet egentlig var "pingvinerbestingenprotest" men at dette nå er byttet til morse. For å komme videre på spst.no/temmelig-hemmelig/ må man mate inn .--. .. -. --. ...- .. -. . .-. -... . ... - .. -. --. . -. .--. .-. --- - . ... -
+
+Da kommer det et bilde til syne. I alt-teksten til dette bildet ligger flagget PST{f2e0e89f59722af1f388529720b9db03}
+
+I bildet til fila så kan man decode stego via denne nettsida https://stylesuxx.github.io/steganography/, som produserer space og S`er og danner en qr-kildekode
+
+QR-koden danner en lenke /8a2a8e12017977d9dbf0ed33e254e94e.txt som man kan åpne på spst.no/8a2a8e12017977d9dbf0ed33e254e94e.txt
+
+Dette ser kliss likt ut som feilmeldingene man får når man treffer feil side på spst.no, forskjellen er at det ligger masse &zwnj; og &zwj; tegn, som man kan skjule en del flagg i. 
+
+Dekrypter fila her: https://330k.github.io/misc_tools/unicode_steganography.html

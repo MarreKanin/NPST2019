@@ -1,0 +1,12 @@
+
+
+# øMSijrt Mc SÅtMZPrU
+# Pompøst og metodisk
+
+# ømQ UæjEEi4æÅktÅr i4æÅktÅr SZG tWM tPSÅ i4Z i4æÅktÅr rE0tt UæjEEi4æÅktÅr rE0tt
+# PST krøllparentes parentes md5 two time pad parentes slutt krøllparentes slutt
+
+# echo -n "two time pad" | md5sum
+
+# PST{4a0fc5f3c88874cab11c64e965dff58d}
+
